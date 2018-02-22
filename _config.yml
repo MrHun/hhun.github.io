@@ -20,8 +20,8 @@ theme_settings:
    
 
   # Icons
-  rss: true
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: false
+  email_address: kinosoul@gmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
