@@ -16,7 +16,7 @@ theme_settings:
      <p>스타트 개발자</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    <p>H.Hun 블로그</p> <p>#안드로이드_개발자 #서버_개발자 #Node.js #풀스택개발자 #스타트업</p>
+    <p>H.Hun 블로그</p><\n> <p>#안드로이드_개발자 #서버_개발자 #Node.js #풀스택개발자 #스타트업</p>
    
 
   # Icons
