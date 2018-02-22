@@ -15,7 +15,7 @@ theme_settings:
   #header_text: > #two or three lines to describe your site
      #<p>Change header text in <code>_config.yml</code> <br> to update this feature.</p>
   header_text: > #two or three lines to describe your site
-     <p>안드로이드 풀스택 개발자</p>
+     <p>스타트 개발자</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   #footer_text: >
   #Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
