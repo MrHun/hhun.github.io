@@ -1,13 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://hhun.github.io"
-name: "H.Hun Technical Blog"
-title: "H.Hun Technical Blog"
+title: "H.Hun Tech Blog"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  name: "H.Hun Technical Blog"
   title: H.Hun Blog
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
@@ -16,7 +14,7 @@ theme_settings:
 
   # Header and footer text       #<p>StartUp Developer</p>
   header_text: > #two or three lines to describe your site
-     <h3>H.Hun Technical Blog</h3> <p>I'm FullStack Developer!</p>
+     <h3>H.Hun Tech Blog</h3> <p>I'm FullStack Developer!</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://hhun.github.io/">H.Hun</a> with <a href="https://github.com">GitHub</a>
