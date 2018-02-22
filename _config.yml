@@ -1,6 +1,7 @@
 # SITE CONFIGURATION
 baseurl: ""
 url: "https://hhun.github.io"
+name: "H.Hun Technical Blog"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
