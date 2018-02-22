@@ -1,7 +1,7 @@
 ---
 hide: true
 layout: page
-title: About2
+title: About
 permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Test]
