@@ -6,6 +6,7 @@ name: "H.Hun Technical Blog"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
+  name: "H.Hun Technical Blog"
   title: H.Hun Blog
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
