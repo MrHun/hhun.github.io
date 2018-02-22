@@ -1,5 +1,4 @@
 ---
-hide: true
 layout: post
 title: "Markup: Syntax Highlighting"
 tags: [code]
