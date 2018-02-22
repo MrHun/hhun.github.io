@@ -2,6 +2,7 @@
 baseurl: ""
 url: "https://hhun.github.io"
 name: "H.Hun Technical Blog"
+title: "H.Hun Technical Blog"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
