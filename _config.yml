@@ -13,7 +13,7 @@ theme_settings:
 
   # Header and footer text       #<p>StartUp Developer</p>
   header_text: > #two or three lines to describe your site
-     <h2>H.Hun 블로그</h2> 
+     <h2>H.Hun 블로그</h2> <p>나는 스타트업 풀스택 개발자다!</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
     Powered by <a href="https://hhun.github.io/">H.Hun Blog</a> with <a href="https://github.com">GitHub</a>
