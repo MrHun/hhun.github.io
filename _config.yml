@@ -17,7 +17,7 @@ theme_settings:
      <h3>H.Hun Technical Blog</h3> <p>I'm FullStack Developer!</p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
-    Powered by <a href="https://hhun.github.io/">H.Hun Blog</a> with <a href="https://github.com">GitHub</a>
+    Powered by <a href="https://hhun.github.io/">H.Hun</a> with <a href="https://github.com">GitHub</a>
    
 
   # Icons
